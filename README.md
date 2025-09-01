@@ -16,12 +16,20 @@
 ---
 
 ### 🛠 Skills  
-- *Programming:* Python, C, SQL
-- *Data Analysis:* Excel, Pandas, NumPy, Data Cleaning, EDA
-- *Machine Learning:* Scikit-learn, Supervised & Unsupervised Learning
-- *Deep Learning:* Keras, TensorFlow
-- *Visualization:* Matplotlib, Seaborn
-- *Tools:* Jupyter Notebook, Google Colab, GitHub  
+
+**Programming:** Python, C, SQL  
+
+**Data Analysis:** Excel, Pandas, NumPy, Data Cleaning, EDA  
+
+**Machine Learning:** Scikit-learn, Supervised & Unsupervised Learning  
+
+**Deep Learning:** Keras, TensorFlow  
+
+**Natural Language Processing (NLP):** NLTK, SpaCy, Text Preprocessing, Sentiment Analysis, Transformers (Hugging Face)  
+
+**Visualization:** Matplotlib, Seaborn  
+
+**Tools:** Jupyter Notebook, Google Colab, GitHub
 
 ---
 
